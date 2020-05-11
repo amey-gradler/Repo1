@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is FE9E-774F
+
+ Directory of C:\Users\Hp\Desktop\MyProject
+
+11-05-2020  12:58    <DIR>          .
+11-05-2020  12:58    <DIR>          ..
+11-05-2020  12:58                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  187,055,013,888 bytes free
